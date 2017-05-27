@@ -1,0 +1,145 @@
+2017-05-27 10:45:26,452 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Jeff:Jeff:0.0.1-SNAPSHOT @ C:\Users\imch\Desktop\kkkkk\Jeff\pom.xml.
+2017-05-27 10:45:31,725 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jeff/src
+2017-05-27 10:45:31,727 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Jeff/src overlaps with sources folder /Jeff/src
+2017-05-27 10:45:32,099 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Jeff/src/test/java because it overlaps with /Jeff/src
+2017-05-27 10:45:33,663 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-27 10:45:34,515 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Jeff:Jeff:0.0.1-SNAPSHOT @ C:\Users\imch\Desktop\kkkkk\Jeff\pom.xml.
+2017-05-27 10:45:37,861 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jeff/src
+2017-05-27 10:45:37,861 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Jeff/src overlaps with sources folder /Jeff/src
+2017-05-27 10:45:38,162 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Jeff/src/test/java because it overlaps with /Jeff/src
+2017-05-27 10:45:38,831 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Jeff
+2017-05-27 10:45:38,885 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2017-05-27 10:45:40,060 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:45:40,106 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:45:40,176 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:45:40,178 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:45:40,179 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Jeff
+2017-05-27 10:45:40,180 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Jeff
+2017-05-27 10:45:40,186 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2017-05-27 10:45:40,202 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:45:46,949 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Jeff:Jeff:0.0.1-SNAPSHOT @ C:\Users\imch\Desktop\kkkkk\Jeff\pom.xml.
+2017-05-27 10:45:47,853 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:45:47,859 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:45:47,861 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:45:47,864 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:45:47,865 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Jeff
+2017-05-27 10:45:47,865 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Jeff
+2017-05-27 10:45:47,872 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:17,154 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Jeff:Jeff:0.0.1-SNAPSHOT @ C:\Users\imch\Desktop\kkkkk\Jeff\pom.xml.
+2017-05-27 10:46:18,460 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:18,464 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:46:18,465 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:18,467 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:46:18,467 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Jeff
+2017-05-27 10:46:18,467 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Jeff
+2017-05-27 10:46:18,471 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:20,292 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:20,314 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:46:20,390 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:20,392 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:46:31,020 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\imch\Desktop\kkkkk\Jeff
+2017-05-27 10:46:31,022 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-05-27 10:46:34,834 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:34,837 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:46:34,838 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:34,844 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:46:54,992 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:54,995 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:46:54,997 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:46:55,000 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:47:12,019 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:47:12,023 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:47:12,025 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:47:12,028 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:47:13,044 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:47:13,047 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:47:13,048 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:47:13,051 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:47:20,171 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:47:20,175 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:47:20,176 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:47:20,179 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:48:09,307 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:48:09,309 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:48:09,311 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:48:09,313 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:48:12,726 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:48:12,729 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:48:12,730 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:48:12,733 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:48:27,044 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:48:27,047 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:48:27,049 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:48:27,052 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:49:36,975 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:49:36,982 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-27 10:49:36,989 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:49:36,991 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:51:23,469 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:51:23,501 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:51:23,648 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:51:23,651 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:52:23,183 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\imch\Desktop\kkkkk\Jeff
+2017-05-27 10:52:23,183 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-05-27 10:52:30,972 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:52:30,977 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:52:30,980 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:52:30,986 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:53:42,530 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-27 10:53:43,217 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Jeff:Jeff:0.0.1-SNAPSHOT @ C:\Users\imch\Desktop\kkkkk\Jeff\pom.xml.
+2017-05-27 10:53:44,977 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Jeff/src
+2017-05-27 10:53:44,977 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /Jeff/src overlaps with sources folder /Jeff/src
+2017-05-27 10:53:44,979 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Jeff/src/test/java because it overlaps with /Jeff/src
+2017-05-27 10:53:45,962 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Jeff
+2017-05-27 10:53:45,989 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-05-27 10:53:48,187 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:53:48,193 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:53:48,267 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:53:48,270 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:53:48,270 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Jeff
+2017-05-27 10:53:48,270 [Worker-6] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Jeff
+2017-05-27 10:53:48,276 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:40,819 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:40,823 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:54:40,824 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:40,827 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:54:42,973 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:42,975 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:54:42,977 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:42,979 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:54:43,995 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:43,999 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:54:44,000 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:54:44,002 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:55:31,170 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:55:31,192 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:55:31,196 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:55:31,199 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:57:38,926 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:57:38,945 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:57:38,949 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:57:38,952 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:57:51,468 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:57:51,488 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 10:57:51,492 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:57:51,495 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:58:57,410 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:58:57,415 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:58:57,417 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:58:57,420 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 10:59:04,635 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:59:04,639 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 10:59:04,640 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 10:59:04,643 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 11:02:08,661 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 11:02:08,682 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 11:02:08,693 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 11:02:08,696 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 11:02:44,257 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 11:02:44,302 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-05-27 11:02:44,309 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 11:02:44,312 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
+2017-05-27 11:03:46,607 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 11:03:46,678 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-27 11:03:46,681 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-27 11:03:46,684 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\imch\Desktop\kkkkk\Jeff\src\test\resources
